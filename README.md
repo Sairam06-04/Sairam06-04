@@ -2,7 +2,7 @@
 
 I'm a passionate designer and developer, focused on creating intuitive user experiences and solving problems with code. I enjoy working with both creative design tools and programming languages to build unique projects.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDdrOHYwZjIzYnNpNzEyaTUxdWl0a21ya2xjYWdmMGZvaDkxMzFjZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ0czQyZ29vdzhhZ202cGdhbGRtdjNxZ256MnY4YnN3bHd6aWoyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
 ---
 
