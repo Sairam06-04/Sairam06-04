@@ -42,7 +42,7 @@ Here are some of the technologies and tools I work with:
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a>
   <a href="https://helpx.adobe.com/support/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/imgres?q=adobe%20xd&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100070281390790&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fadobexd%2F&docid=vTXy0jIl_YWBRM&tbnid=PnDeQf8ZgxqdMM&vet=12ahUKEwilmueflvSPAxW2i2MGHUA9DY4QM3oECBsQAA..i&w=1701&h=1701&hcb=2&ved=2ahUKEwilmueflvSPAxW2i2MGHUA9DY4QM3oECBsQAA" alt="Adobe XD" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/> 
   </a>
 </p>
 
