@@ -60,7 +60,7 @@ I am focused on Learning New Skill That Make Sense To The Real World.
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;"/> 
   </a>
   <a href="https://helpx.adobe.com/support/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40" style="margin-right: 10px;"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpE9uzLiRwnN2RC6lGbvjnUDvasIpxJIm4bw&s" width="40" height="40" style="margin-right: 10px;"/> 
   </a>
 </p>
 
