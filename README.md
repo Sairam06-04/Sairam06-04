@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am focus on Learning New Skill That Make Sense To The Real World.
+I am focused on Learning New Skill That Make Sense To The Real World.
 
 *   🔭 **Currently Figuring Out**
 *   🌱 **Currently learning new Skills**
