@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I focus on creating intuitive user experiences and solving problems with code. I enjoy bridging the gap between creative design tools and robust programming languages to build unique, user-centric projects.
+I am focus on Learning New Skill That Make Sense To The Real World.
 
 *   🔭 **Currently Figuring Out**
 *   🌱 **Currently learning new Skills**
